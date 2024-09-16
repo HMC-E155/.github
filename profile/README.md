@@ -12,3 +12,5 @@ All starter code for the course can be found in the [hmc-e155](https://github.co
 
 There are also a collection of tutorial repositories available which include code to demonstrate particular aspects of the course.
 These repositories begin with `tutorial-` and are listed below.
+
+- [STM32 Clock Configuration](https://github.com/HMC-E155/tutorial-clock-configuration)

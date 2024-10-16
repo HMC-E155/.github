@@ -14,3 +14,6 @@ There are also a collection of tutorial repositories available which include cod
 These repositories begin with `tutorial-` and are listed below.
 
 - [STM32 Clock Configuration](https://github.com/HMC-E155/tutorial-clock-configuration)
+- [Interrupts](https://github.com/HMC-E155/tutorial-interrupts)
+- [UART](https://github.com/HMC-E155/tutorial-uart)
+- [ESP8266 Webserver](https://github.com/HMC-E155/tutorial-esp8266-click-webserver)
